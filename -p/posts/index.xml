@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jan 2025 08:21:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>demo  post</title>
+      <link>http://localhost:1313/posts/demo-post/</link>
+      <pubDate>Thu, 23 Jan 2025 10:21:21 +0000</pubDate>
+      <guid>http://localhost:1313/posts/demo-post/</guid>
+      <description>&lt;p&gt;Change of Static files detected, rebuilding site (#15).&lt;!-- raw HTML omitted --&gt;2025-01-23 16:15:46.686 +0600&lt;!-- raw HTML omitted --&gt;Syncing \images\illustration-of-ichthyosaur-featured-4.jpg to &amp;lt;br&amp;gt;Syncing \images to &amp;lt;br&amp;gt;Syncing \images\illustration-of-ichthyosaur-featured-4-300×159.jpg to &amp;lt;br&amp;gt;Syncing \images\illustration-of-ichthyosaur-featured-4-768×407.jpg to \&lt;/p&gt;&#xA;&lt;p&gt;Change detected, rebuilding site (#16).&lt;!-- raw HTML omitted --&gt;2025-01-23 16:15:46.717 +0600&lt;!-- raw HTML omitted --&gt;Source changed /posts/ankon-posting.md&lt;!-- raw HTML omitted --&gt;Source changed /posts/images/illustration-of-ichthyosaur-featured-4.jpg&lt;!-- raw HTML omitted --&gt;Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)&lt;!-- raw HTML omitted --&gt;Total in 7 ms&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>my new page</title>
+      <link>http://localhost:1313/posts/my-new-page/</link>
+      <pubDate>Wed, 22 Jan 2025 13:13:45 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-new-page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>popular post</title>
+      <link>http://localhost:1313/posts/popular-post/</link>
+      <pubDate>Wed, 22 Jan 2025 13:00:06 +0000</pubDate>
+      <guid>http://localhost:1313/posts/popular-post/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>WRITE NEW SITE</title>
+      <link>http://localhost:1313/posts/write-new-site/</link>
+      <pubDate>Wed, 22 Jan 2025 12:20:35 +0000</pubDate>
+      <guid>http://localhost:1313/posts/write-new-site/</guid>
+      <description>&lt;p&gt;EVERTHING IS GOOD IN THIS CODE .. NOT NEED TO CHANGE ANYTHING BUT THE PROBL SHOULD ALSO FETCHING IMAGES ..FROM WORDPRESS POST&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IMAGE ADDING FEATURES UPDATED</title>
+      <link>http://localhost:1313/posts/image-adding-features-updated/</link>
+      <pubDate>Wed, 22 Jan 2025 12:06:40 +0000</pubDate>
+      <guid>http://localhost:1313/posts/image-adding-features-updated/</guid>
+      <description>&lt;p&gt;DFSGDSGFSDGDFSGDFSGDFSGFSG&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IMAGE ADDING POST</title>
+      <link>http://localhost:1313/posts/image-adding-post/</link>
+      <pubDate>Wed, 22 Jan 2025 11:52:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/image-adding-post/</guid>
+      <description>&lt;p&gt;A&lt;/p&gt;&#xA;&lt;p&gt;AA&lt;/p&gt;&#xA;&lt;p&gt;// convertHTMLToMarkdown does basic HTML to Markdown conversion&lt;!-- raw HTML omitted --&gt;func convertHTMLToMarkdown(html string) string {&lt;!-- raw HTML omitted --&gt;markdown := html&lt;!-- raw HTML omitted --&gt;markdown = regexp.MustCompile(]&lt;em&gt;&amp;gt;).ReplaceAllString(markdown, “”) markdown = strings.ReplaceAll(markdown, “”, “”) markdown = regexp.MustCompile(]&lt;/em&gt;&amp;gt;(.&lt;em&gt;?)).ReplaceAllString(markdown, “# $1\n”) markdown = regexp.MustCompile(]&lt;/em&gt;&amp;gt;(.&lt;em&gt;?)).ReplaceAllString(markdown, “## $1\n”) markdown = regexp.MustCompile(]&lt;/em&gt;&amp;gt;(.&lt;em&gt;?)).ReplaceAllString(markdown, “### $1\n”) markdown = regexp.MustCompile(]&lt;/em&gt;&amp;gt;(.&lt;em&gt;?)&lt;strong&gt;).ReplaceAllString(markdown, “$1\n\n”) markdown = regexp.MustCompile(&lt;/strong&gt;(.&lt;em&gt;&lt;strong&gt;&lt;strong&gt;?)&lt;/strong&gt;).ReplaceAllString(markdown, “&lt;/strong&gt;$1&lt;/em&gt;*“)&lt;!-- raw HTML omitted --&gt;markdown = regexp.MustCompile(&lt;/em&gt;(.&lt;!-- raw HTML omitted --&gt;?)&lt;em&gt;).ReplaceAllString(markdown, “&lt;!-- raw HTML omitted --&gt;$1&lt;/em&gt;”)&lt;!-- raw HTML omitted --&gt;return markdown&lt;!-- raw HTML omitted --&gt;}&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>THIS IS MY NEW POST</title>
+      <link>http://localhost:1313/posts/this-is-my-new-post/</link>
+      <pubDate>Wed, 22 Jan 2025 11:47:38 +0000</pubDate>
+      <guid>http://localhost:1313/posts/this-is-my-new-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OUR NEW SERVICE</title>
+      <link>http://localhost:1313/posts/our-new-service/</link>
+      <pubDate>Wed, 22 Jan 2025 11:42:58 +0000</pubDate>
+      <guid>http://localhost:1313/posts/our-new-service/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>test post here</title>
+      <link>http://localhost:1313/posts/test-post-here/</link>
+      <pubDate>Wed, 22 Jan 2025 11:23:44 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test-post-here/</guid>
+      <description>&lt;p&gt;xt ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>this is my first post</title>
+      <link>http://localhost:1313/posts/this-is-my-first-post/</link>
+      <pubDate>Wed, 22 Jan 2025 10:53:46 +0000</pubDate>
+      <guid>http://localhost:1313/posts/this-is-my-first-post/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;what-is-lorem-ipsum&#34;&gt;What is Lorem Ipsum?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lorem Ipsum&lt;/strong&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>updated news here</title>
+      <link>http://localhost:1313/posts/updated-news-here/</link>
+      <pubDate>Wed, 22 Jan 2025 10:00:52 +0000</pubDate>
+      <guid>http://localhost:1313/posts/updated-news-here/</guid>
+      <description>&lt;p&gt;What is Lorem Ipsum?&lt;/p&gt;&#xA;&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>my new site</title>
+      <link>http://localhost:1313/posts/my-new-site/</link>
+      <pubDate>Wed, 22 Jan 2025 09:51:42 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-new-site/</guid>
+      <description>&lt;h2 id=&#34;what-is-lorem-ipsum&#34;&gt;What is Lorem Ipsum?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lorem Ipsum&lt;/strong&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>new updates showing</title>
+      <link>http://localhost:1313/posts/new-updates-showing/</link>
+      <pubDate>Wed, 22 Jan 2025 09:40:51 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new-updates-showing/</guid>
+      <description>&lt;p&gt;this is my site&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-lorem-ipsum&#34;&gt;What is Lorem Ipsum?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lorem Ipsum&lt;/strong&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>comming soon</title>
+      <link>http://localhost:1313/posts/comming-soon/</link>
+      <pubDate>Wed, 22 Jan 2025 09:17:31 +0000</pubDate>
+      <guid>http://localhost:1313/posts/comming-soon/</guid>
+      <description>&lt;p&gt;What is Lorem Ipsum?&lt;/p&gt;&#xA;&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>testing site</title>
+      <link>http://localhost:1313/posts/testing-site/</link>
+      <pubDate>Wed, 22 Jan 2025 09:12:08 +0000</pubDate>
+      <guid>http://localhost:1313/posts/testing-site/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 21 Jan 2025 17:45:42 +0600</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-my-hugo-site&#34;&gt;Welcome to My Hugo Site&lt;/h2&gt;&#xA;&lt;p&gt;This is the first post on my site. I&amp;rsquo;m using Hugo with the &amp;ldquo;Stack&amp;rdquo; theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Top 10 Polar Animals: Surviving in Extreme Cold</title>
+      <link>http://localhost:1313/posts/top-10-polar-animals-surviving-in-extreme-cold/</link>
+      <pubDate>Sat, 18 Jan 2025 07:16:44 +0000</pubDate>
+      <guid>http://localhost:1313/posts/top-10-polar-animals-surviving-in-extreme-cold/</guid>
+      <description>&lt;p&gt;The polar regions of the Earth are home to some of the most resilient and unique creatures on the planet. These animals have evolved incredible adaptations to survive in the harshest conditions, where temperatures can plummet to below freezing and food sources are scarce. From the icy shores of the Arctic to the frozen expanses of Antarctica, here’s a look at the top 10 polar animals that thrive in these extreme environments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Top 10 Extinct Animals That Came Back: The Wonders of De-Extinction</title>
+      <link>http://localhost:1313/posts/top-10-extinct-animals-that-came-back-the-wonders-of-de-extinction/</link>
+      <pubDate>Sat, 18 Jan 2025 06:19:32 +0000</pubDate>
+      <guid>http://localhost:1313/posts/top-10-extinct-animals-that-came-back-the-wonders-of-de-extinction/</guid>
+      <description>&lt;p&gt;De-extinction, the process of bringing extinct animals back to life, has long been a concept of science fiction. However, with advancements in genetic engineering, cloning, and other scientific innovations, some once-extinct species have been brought back into existence, or at least are close to making a return. Here’s a look at 10 animals that were thought to be lost forever but are making a surprising comeback.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;The Pyrenean ibex, a wild goat species native to the Pyrenees Mountains in Europe, was declared extinct in 2000 due to hunting and habitat loss. However, scientists managed to clone a Pyrenean ibex in 2003 using frozen cells from the last known individual. Unfortunately, the cloned ibex died shortly after birth, but the success of the cloning process showed the potential for de-extinction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 18 Jan 2025 05:38:55 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
