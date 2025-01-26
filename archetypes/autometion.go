@@ -172,6 +172,6 @@ func main() {
 		// Update existing posts
 		existingPosts = currentSlugs
 
-		time.Sleep(4 * time.Second)
+		time.Sleep(1 * time.Second)
 	}
 }
